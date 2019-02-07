@@ -1,4 +1,24 @@
 .intro {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-style: italic;   
+    font-family: fantasy;
+    font-style: italic; 
+    color: #f7325e;  
+}
+
+.trips {
+    font-size: 1cm;
+    color: #7dc410;
+    font-family: fantasy;
+}
+
+.popular {
+    background-color: red;
+}
+
+body {
+    text-align: center;
+}
+
+img {
+    height: 7cm;
+    width: 7cm;
 }
