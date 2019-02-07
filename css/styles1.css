@@ -1,0 +1,17 @@
+.intro {
+    color:blue;
+    font-size: 1cm;
+}
+
+h1.intro {
+    background-color: yellow;
+}
+
+p.intro {
+    background-color: maroon;
+}
+
+img.intro {
+    background-color: green;
+    text-align: left;
+}
